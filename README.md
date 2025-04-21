@@ -25,7 +25,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayatali&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayat166&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4"/>
 </p>
 
 ---
@@ -33,8 +33,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayatali&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayatali&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayat166&show_icons=true&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayat166&theme=tokyonight" width="49%"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ### 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayatali&theme=react-dark&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayat166&theme=react-dark&area=true&hide_border=true"/>
 </p>
 
 ---
