@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:ayatali1661@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ayat-ali-0795b21b8/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ayatali"><img src="https://img.shields.io/github/followers/ayatali?label=Follow&style=social"/></a>
+  <a href="https://github.com/Ayat166"><img src="https://img.shields.io/github/followers/ayatali?label=Follow&style=social"/></a>
 </p>
 
 ---
