@@ -30,14 +30,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayat166&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayat166&theme=tokyonight" width="49%"/>
-</p>
-
----
 
 ### 📊 GitHub Activity Graph
 
@@ -49,7 +41,7 @@
 
 ### 🧠 Currently Learning
 - Advanced Docker & DevOps
-- Cloud Engineering (AWS/GCP)
+- No Sql Mongodb
 - System Design & Scalable Architectures
 
 ---
