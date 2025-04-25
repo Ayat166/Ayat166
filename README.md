@@ -15,11 +15,9 @@
 ### 👩‍💻 About Me
 - 🎓 AI graduate from Cairo University (Class of 2024)
 - 💡 Passionate about Full-Stack Web Development & Machine Learning
-- 🛠️ Tech stack: `Python`, `Django`, `React`, `Node.js`, `PostgreSQL`, `Docker`
+- 🛠️ Tech stack: `Python`, `Django`, `React`, `PostgreSQL`, `Docker`
 - 📱 Built **V_Prova**, a virtual try-on mobile app using generative AI
 - 👩‍🏫 Former Coding Instructor at iSchool (Python, Scratch, AI, and Game Dev)
-- 🚀 Currently exploring collaborative systems and cloud-native apps
-
 ---
 
 ### 🏆 GitHub Trophies
