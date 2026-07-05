@@ -29,13 +29,6 @@
 
 ---
 
-### 📊 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayat166&theme=react-dark&area=true&hide_border=true"/>
-</p>
-
----
-
 ### 🧠 Currently Learning
 - Advanced Docker & DevOps
 - NoSQL Databases (MongoDB)
@@ -54,13 +47,19 @@
 
 ---
 
-### 📈 Skills & Tools
-- **Languages:** Python, JavaScript, SQL  
-- **Frameworks:** Django, React, Flask  
-- **Databases:** PostgreSQL, MongoDB  
-- **DevOps:** Docker, GitHub Actions, CI/CD  
-- **Cloud:** AWS, Azure  
-- **Testing:** PyTest, Jest  
+### ⚙️ Skills & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
 
 ---
 
